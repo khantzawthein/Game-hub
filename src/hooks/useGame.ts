@@ -1,4 +1,4 @@
-import useData from "./useData-DESKTOP-0CFRKIJ";
+import useData from "./useData";
 
 export interface Platform {
   id: number;
